@@ -16,7 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<table>
+    <tr>
+        <a href="https://github.com/TheJocker94">
+            <img src="https://awesome-github-stats.azurewebsites.net/user-stats/TheJocker94?cardType=level&theme=tokyonight" width="397" height="200">
+        </a> 
+        <a href="https://github.com/TheJocker94?tab=repositories">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJocker94&hide=swift,roff,perl&layout=compact&theme=tokyonight" width="380" height="200">
+        </a>
+    </tr>
+</table>
 ### Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
