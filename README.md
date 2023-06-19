@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools:
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,nextjs,nestjs"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=vuejs,github"/>
+</p>
 <table>
     <tr>
         <a href="https://github.com/TheJocker94">
@@ -26,14 +34,6 @@ Here are some ideas to get you started:
         </a>
     </tr>
 </table>
-### Languages and Tools:
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,nextjs,nestjs"/>
-    <br>
-    <img src="https://skillicons.dev/icons?i=vuejs,github"/>
-</p>
 
 <!--
 <a href="https://www.instagram.com/eylon_vr/">![My Skills](https://skillicons.dev/icons?i=instagram)</a>
