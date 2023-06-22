@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     <br>
     <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,nodejs,nextjs,nestjs"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=vuejs,github"/>
+    <img src="https://skillicons.dev/icons?i=vuejs,github,docker"/>
 </p>
 <table>
     <tr>
