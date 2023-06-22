@@ -1,4 +1,4 @@
-### Hi there👋
+# Hi there👋
 [![ocastell's 42 stats](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/stats?cursusId=21&coalitionId=283)](https://github.com/JaeSeoKim/badge42)
 <!--
 **TheJocker94/TheJocker94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details><summary>42 Common Core</summary>
+
+**<details><summary> 42 Common Core</summary>**
 
 |project| status     |
 |:--------------:|:-----------:|
@@ -36,7 +37,6 @@ Here are some ideas to get you started:
 | **[IRC](https://github.com/TheJocker94/ft_IRC_42)**|    [![ocastell's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3098592)](https://github.com/JaeSeoKim/badge42)    |
 | **TRASCENDENCE**|    [![ocastell's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3118017)](https://github.com/JaeSeoKim/badge42)    |
 -------------------------------------------------------------
--------------------------------------------------------------
 
 |exams| status     |
 |:--------------:|:-----------:|
@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 | **EXAM03**|     ✅     |
 | **EXAM04**|     ✅     |
 | **EXAM05**|     ✅     |
+-------------------------------------------------------------
+</details>
 
-  </details>
-### Languages and Tools:
+## Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
     <br>
