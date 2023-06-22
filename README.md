@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 **<details><summary> 42 Common Core</summary>**
 
 |project| status     |
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 | **[MINISHELL](https://github.com/TheJocker94/ft_minishell_42)** | [![ocastell's 42 minishell Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3001421)](https://github.com/JaeSeoKim/badge42) |
 | **[PHILOSOPHERS](https://github.com/TheJocker94/ft_philosopher_42)** | [![ocastell's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/2938424)](https://github.com/JaeSeoKim/badge42)   |
 | **NETPRACTICE**|  [![ocastell's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3044828)](https://github.com/JaeSeoKim/badge42) |
-| **[CUB3D](https://github.com/mik989/cub3d)**|  [![ocastell's 42 cub3d Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3044827)](https://github.com/JaeSeoKim/badge42) |
+| **[CUB3D](https://github.com/TheJocker94/ft_cube3d_42)**|  [![ocastell's 42 cub3d Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3044827)](https://github.com/JaeSeoKim/badge42) |
 | **CPP00/04** | [![ocastell's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3086197)](https://github.com/JaeSeoKim/badge42)  |
 | **CPP05/09**|  [![ocastell's 42 CPP Module 09 Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3094655)](https://github.com/JaeSeoKim/badge42) |
 | **[INCEPTION](https://github.com/TheJocker94/ft_inception_42)** |  [![ocastell's 42 Inception Score](https://badge42.vercel.app/api/v2/cliyd5v1q003008l6ye5s8143/project/3097393)](https://github.com/JaeSeoKim/badge42) |
@@ -46,7 +47,6 @@ Here are some ideas to get you started:
 | **EXAM05**|     ✅     |
 -------------------------------------------------------------
 </details>
-
 ## Languages and Tools:
 <p align="left">
     <img src="https://skillicons.dev/icons?i=linux,c,cpp,bash,vscode,vim,git"/>
