@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 
 |exams| status     |
 |:--------------:|:-----------:|
-| **EXAM02** | ✅ |
-| **EXAM03** | ✅ |
-| **EXAM04** | ✅ |
-| **EXAM05** | ✅ |
-| **EXAM06** | ✅ |
+| **EXAM02** | ☑️ |
+| **EXAM03** | ☑️ |
+| **EXAM04** | ☑️ |
+| **EXAM05** | ☑️ |
+| **EXAM06** | ☑️ |
 -------------------------------------------------------------
 </details>
 ## Languages and Tools:
